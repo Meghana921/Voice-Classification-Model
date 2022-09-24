@@ -1,0 +1,31 @@
+Communication is the key to express one’s thoughts and ideas clearly. Amongst all forms of 
+communication, speech is the most preferred and powerful form of communications in human. 
+The era of the Internet of Things (IoT) is rapidly advancing in bringing more intelligent systems 
+available for everyday use. These applications range from simple wearables and widgets to 
+complex self-driving vehicles and automated systems employed in various fields. Intelligent 
+applications are interactive and require minimum user effort to function, and mostly function on 
+voice-based input. This creates the necessity for these computer applications to completely 
+comprehend human speech. 
+
+A speech percept can reveal information about the speaker including gender, age, language, and 
+emotion. Several existing speech recognition systems used in IoT applications are integrated with 
+an emotion detection system in order to analyze the emotional state of the speaker. The 
+performance of the emotion detection system can greatly influence the overall performance of the 
+IoT application in many ways and can provide many advantages over the functionalities of these 
+applications. This research presents a speech emotion detection system with improvements over 
+an existing system in terms of data, feature selection, and methodology that aims at classifying 
+speech percepts based on emotions, more accurately. 
+
+The application reviews about “emotion detection using vocal audios”. The vocals mainly 
+constitute of the speech which is determined by the signals. Emotion recognition from the speech 
+is an old and challenging problem in the field of artificial intelligence. In this application, the 
+recent developments on sentiment analysis using speech and different problems related to the 
+same have been presented.
+
+The main challenge of the speech detection model is the classification of different emotions using 
+the emotion detection model. So to choose an appropriate classification model is vital. Different 
+types of features of emotional speech data and extraction techniques concerned with them are 
+described in this paper along with the previous work review. The applicability of the various 
+classification techniques has also been reviewed. The analysis has also been performed on 
+different ML techniques for speech emotion recognition accuracy in different languages.
+Footer
