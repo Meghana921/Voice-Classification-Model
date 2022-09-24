@@ -1,5 +1,6 @@
-#Speech-recognition
-Voice classification using ML The primary objective of SER is to improve man-machine interface. It can also be used to monitor the psycho physiological state of a person in lie detectors. In recent time, speech emotion recognition also find its applications in medicine and forensics.
+
+Voice classification using ML
+The primary objective of SER is to improve man-machine interface. It can also be used to monitor the psycho physiological state of a person in lie detectors. In recent time, speech emotion recognition also find its applications in medicine and forensics.
 
 To implement a real-time classification algorithm for inferring emotions from the non-verbal features of speech. It is expected to successfully extract a set of features and use them to train and detect emotions from speech. As an optional extension, the emotion detector will be applied to perform speech quality assessment.
 
